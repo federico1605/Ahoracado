@@ -22,7 +22,7 @@ def main():
             borrarPantalla()
             juego()
         elif(opc == 3):
-            print("Adiós")
+            print("Adió")
             opc = 0
         else:
             print("Ingrese una opción valida por favor")
